@@ -1,0 +1,44 @@
+html{
+    display: flex;
+        justify-content: center;
+    align-items: center;
+
+} 
+
+.section{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+#counter{
+    color: blueviolet;
+    font-size: x-large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin:7px ;
+
+}
+
+#counter:hover{
+    color:chartreuse;
+    font-size: x-large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin:7px;
+}
+button{
+
+    margin:9px;
+    border-radius:7px;
+    color:black;
+    background-color:rgb(213, 150, 245);
+    border-color:whitesmoke;
+    
+}   
+
+button:hover{
+
+    color:white;
+    background-color:blueviolet;
+    border-color:black;
+    
+}
+    
